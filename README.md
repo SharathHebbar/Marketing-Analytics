@@ -24,4 +24,6 @@ Customer Analytics using Python
     - It has its own framework called <b>Marketing Mix</b>
 
 
-[Know more about marketing mix: ](marketing_mix.md)
+[Know more about marketing mix](marketing_mix.md)
+
+[Know about Retailers](retailers.md)
