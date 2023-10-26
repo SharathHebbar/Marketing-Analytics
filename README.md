@@ -2,7 +2,7 @@
 
 Customer Analytics using Python
 
-1. STP Framework
+## STP Framework
 
 - Segmentation: Dividing a population into groups with similar characteristics. These groups will have
     - Comparable purchase behaviours
@@ -90,3 +90,22 @@ Customer Analytics using Python
 4. Store Visit
 5. Product consideration (Online store has a data).
 6. Ratings and reviews (Online store can get this data).
+
+## Price Elasticity
+
+- Measures how purchasing behaviour changes how price changes
+    - Own price elasticity (comparing price with same product)
+    - Cross price elasticity (comparing price with different product)
+- Supply and demand
+    - Cheaper the product the higher the demand and vice versa
+- Revenue = Price * Units sold
+
+- Price Elasticity Purchase probability
+    - If aggregate price increases purchase probability decreases.
+    - Price elasticity will show us how much would the purchasing quantity decrease / increase.
+- Price Elasticity Brand choice probability.
+    - Influencing customers to choose namely their brand over competing brands.
+    - If price of brand product increase the brand choice probability decreases.
+    - How much the brand choice probability of our brand would increase with a one percent increase in the price of a competing brand
+- Price Elasticity Purchase quantity
+    - The greater the price the lower the purchase.
