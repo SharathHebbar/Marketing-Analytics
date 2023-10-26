@@ -22,3 +22,6 @@ Customer Analytics using Python
     - Presentation
     - Channels
     - It has its own framework called <b>Marketing Mix</b>
+
+
+[Know more about marketing mix: ](marketing_mix.md)
