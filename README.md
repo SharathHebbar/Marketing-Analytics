@@ -13,3 +13,12 @@ Customer Analytics using Python
         - Psychographic
         - Behavioral
 
+- Targeting: Evaluating potential profits from segments and deciding which segments to focus on. Consideration factors:
+    - Segment Size
+    - Expected Growth
+    - Competitors offerings
+
+- Positioning: What product would have the closest characteristics to customer needs.
+    - Presentation
+    - Channels
+    - It has its own framework called <b>Marketing Mix</b>
