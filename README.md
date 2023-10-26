@@ -24,7 +24,7 @@ Customer Analytics using Python
     - It has its own framework called <b>Marketing Mix</b>
 
 
-# Marketing Mix
+## Marketing Mix
 
 Marketing mix: Develop the best product and offer it at
 - the right price
@@ -76,7 +76,7 @@ The four P's
     - Exclusive distribution
 
 
-# Physical and Online Retailers
+## Physical and Online Retailers
 
 The 4 questions
 
