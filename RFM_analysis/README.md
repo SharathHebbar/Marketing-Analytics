@@ -13,7 +13,7 @@ Procedure:
 1. Step 1: Understanding Data
 
 Ex: We have data of 9 customers with date of purchase, frequency of purchase and sales value of each purchase
-s
+
 2. Step 2: Assigning recency score
 a. Arrange data in descending order basis, last purchase data
 b. 
