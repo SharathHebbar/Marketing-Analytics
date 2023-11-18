@@ -10,10 +10,10 @@ Definition: RFM (Recency, Frequency, and Monetary) analysis is most simple and p
 - How much did they buy (Monetary).
 
 Procedure:
-1. Step 1: Understanding Data
+- Step 1: Understanding Data
 
 Ex: We have data of 9 customers with date of purchase, frequency of purchase and sales value of each purchase
 
-2. Step 2: Assigning recency score
-a. Arrange data in descending order basis, last purchase data
-b. 
+- Step 2: Assigning recency score
+1. Arrange data in descending order basis, last purchase data
+2. 
