@@ -37,47 +37,46 @@ Procedure:
 1. You can create different types of customer segments with RFM Analysis, commonly used 6 segments are
 
 <table>
+<tr>
+<th>Segments</th>
+<th>Scores</th>
+<th>Descriptions</th>
+</tr>
 
-<th>
-<tr>Segments</tr>
-<tr>Scores</tr>
-<tr>Descriptions</tr>
-</th>
+<tr>
+<td>Best Customer</td>
+<td>R-3 F-3 M-3</td>
+<td>These are the customers that bought recently, buys often and spends a lot. It's likely that they will continue to do so. Can market them without price incentive to preserve your profit margins.</td>
+</tr>
 
-<td>
-<tr>Best Customer</tr>
-<tr>R-3 F-3 M-3</tr>
-<tr>These are the customers that bought recently, buys often and spends a lot. It's likely that they will continue to do so. Can market them without price incentive to preserve your profit margins.</tr>
-</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
-<td>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
-<td>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
-<td>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
-<td>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-</td>
-
-<td>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
 </table>
