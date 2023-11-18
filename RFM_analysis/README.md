@@ -1,5 +1,9 @@
 # RFM Analysis
 
+RFM analysis is a marketing technique that uses customer behavior data to identify and target the most valuable customers. RFM stands for recency, frequency, and monetary value.
+
+This analysis will impact on Customer Retention, Product sales, marketing too.
+
 Often times a customer might have bought a high valued/priced items and then after that he might have not purchased anything and he might become highest sales valued customer.
 
 RFM Analysis solves this issue by taking multiple factors into considerations
