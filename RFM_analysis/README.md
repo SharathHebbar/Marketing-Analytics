@@ -13,6 +13,80 @@ Procedure:
 - Step 1: Understanding Data
     1. Example: We have data of 9 customers with date of purchase, frequency of purchase and sales value of each purchase.
 
+<table>
+
+    <tr>
+        <th>Customer ID</th>
+        <th>Date</th>
+        <th>Frequency</th>
+        <th>Price</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>12-12-2021</td>
+        <td>2</td>
+        <td>200</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>13-12-2021</td>
+        <td>3</td>
+        <td>300</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>11-12-2019</td>
+        <td>5</td>
+        <td>1200</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>11-11-2019</td>
+        <td>2</td>
+        <td>200</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td>23-12-2019</td>
+        <td>3</td>
+        <td>400</td>
+    </tr>
+
+    <tr>
+        <td>6</td>
+        <td>05-05-2021</td>
+        <td>5</td>
+        <td>500</td>
+    </tr>
+
+    <tr>
+        <td>7</td>
+        <td>23-04-2021</td>
+        <td>12</td>
+        <td>1500</td>
+    </tr>
+
+    <tr>
+        <td>8</td>
+        <td>14-07-2021</td>
+        <td>4</td>
+        <td>200</td>
+    </tr>
+
+    <tr>
+        <td>9</td>
+        <td>18-01-2018</td>
+        <td>1</td>
+        <td>100</td>
+    </tr>
+
+</table>
+
 - Step 2: Assigning recency score
     1. Arrange data in descending order basis according to last purchase data (say you are going with 3 bins)
     2. Assign 3 score to top 33% customers, 2 score to next 33% and 1 score to the bottom ones.
