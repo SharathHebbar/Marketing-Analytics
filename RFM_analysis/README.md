@@ -12,8 +12,72 @@ Definition: RFM (Recency, Frequency, and Monetary) analysis is most simple and p
 Procedure:
 - Step 1: Understanding Data
 
-Ex: We have data of 9 customers with date of purchase, frequency of purchase and sales value of each purchase
+1. Example: We have data of 9 customers with date of purchase, frequency of purchase and sales value of each purchase.
 
 - Step 2: Assigning recency score
-1. Arrange data in descending order basis, last purchase data
-2. 
+1. Arrange data in descending order basis according to last purchase data (say you are going with 3 bins)
+2. Assign 3 score to top 33% customers, 2 score to next 33% and 1 score to the bottom ones.
+
+- Step 3: Assigning Frequency Score
+1. Arrange data in descending order basis according to the number of purchase.
+2. Assign 3 score to top 33% customers, 2 score to next 33% and 1 score to the bottom ones.
+
+- Step 4: Assigning Monetary Score
+1. Arrange data in descending order basis according to total sales value(money)
+2. Assign 3 score to top 33% customers, 2 score to next 33% and 1 score to the bottom ones.
+
+- Step 5: RFM score Calculation
+1. For Recency say weughtage w1 - 100
+2. For Frequency say weightage w2 - 10
+3. For Monetary say weightage w3 - 1
+4. The formula would be R * W1 + F * W2 + M * W3
+5. Based on the formula calculate the RFM for each rows
+
+- Step 6: Customer Classification basis on RFM Score
+1. You can create different types of customer segments with RFM Analysis, commonly used 6 segments are
+
+<table>
+
+<th>
+<tr>Segments</tr>
+<tr>Scores</tr>
+<tr>Descriptions</tr>
+</th>
+
+<td>
+<tr>Best Customer</tr>
+<tr>R-3 F-3 M-3</tr>
+<tr>These are the customers that bought recently, buys often and spends a lot. It's likely that they will continue to do so. Can market them without price incentive to preserve your profit margins.</tr>
+</td>
+
+<td>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</td>
+
+<td>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</td>
+
+<td>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</td>
+
+<td>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</td>
+
+<td>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</td>
+
+</table>
