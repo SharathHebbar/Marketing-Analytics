@@ -34,5 +34,6 @@
 - Some indicators
 
 | Revenue | Customer | Performance |
+| ------------- | ------------- | ------------- |
 | Revenue Churn Increases | Customer Churn Decreases | Not Good for the company |
 | Revenure Churn Decreases | Customer Churn Increases | Good (Atleast Revenue is good) |
