@@ -134,5 +134,6 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 | Churn | ```10.0%``` | *5.0%* | **8.0%** |
 | CLTV | $10000 | $80000 | $37500 |
 | CAC | $2000 | $50000 | $5000 | 
-| CLTV:CAC | 5:1 | ```1.6 : 1``` | 7.5 : 1 |
+| CLTV:CAC | 5:1 | ```1.6 : 1``` | *7.5 : 1* |
 
+- Indicators: ```Red```, **Orange**, *Yellow*, Green
