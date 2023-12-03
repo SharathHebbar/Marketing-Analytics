@@ -119,3 +119,21 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 1. The Inverse of Churn Rate
 - Example: 1M / 10M = 10%
     - 1 / 10% = 10 years (Average time someone is a customer)
+
+### Points
+1. The longer your customer stays, the higher the CLTV
+2.  CLTV = CLV = LTV
+3. Average lifetime via Inverted Churn Rate.
+4. CLTV to justify cost
+
+    - CLTV: CAC => 3:1
+
+| By Product | Product A | Product B | Product C |
+| ---------- | ----------| ----------| --------- |
+| ARPU | $1000 | $4000 | $3000 |
+| Churn | 10.0% | 5.0% | 8.0% |
+| CLTV | $10000 | $80000 | $37500 |
+| CAC | $2000 | $50000 | $5000 | 
+| CLTV:CAC | 5:1 | 1.6 : 1 | 7.5 : 1 |
+
+ <h1 style="color:purple;">Hello World</h1>
