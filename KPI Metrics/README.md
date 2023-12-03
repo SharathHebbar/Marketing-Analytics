@@ -137,3 +137,13 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 | CLTV:CAC | 5:1 | ```1.6 : 1``` | *7.5 : 1* |
 
 - Indicators: ```Red```, **Orange**, *Yellow*, Green
+
+### Points
+- Ratio can be useful for
+1. Sales: What cost can I justify to acquire a new customer.
+2. Marketing: How much can I spend on a campaign ?
+3. Customer Support: How much can I spend to retain a customer ?
+4. Strategy: What products and industries should the sales team focus on ?
+
+### Organization Chart
+![Organization Chart](KPI Metrics\Assets\org_chart.png)
