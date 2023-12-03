@@ -91,3 +91,31 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 
 ## CAC: Customer Acquistion Cost
 
+- CAC = Sales and Marketing(Salary, Overhead, PaidAds, Tools) / No. of New Customers
+- It does not include the cost of RnD, Churn, Customer Success.
+- CAC is not Cost Per Acquisition (CPA).
+- CAC is not Cost per Click (CPC).
+- Note: For **Freemium** apps like DropBox we need to calculate the CAC say for 60 months then the new customers can be acquired (Assumption: [User uses the app for 60 days as a trail and then he/she subscribes]).
+
+### Points
+1. CAC are all commercial costs per customers.
+2. CAC is not CPA or CPC.
+3. We might have to make CAC work for us.
+
+## Customer LifeTime Value (CLTV) / (CLV) / (LTV)
+- Say for example 
+    - 1st time the customer spends 5$
+    - so for 200 times it would be 5$ * 200 => 1000$
+- Average Customer Lifetime would be calculated by taking average of customers lifetime say one customer stays for 5 years and other for 15 years the average would be 10 years.
+
+- CLTV = ARPU * Average Customer Lifetime
+    - Example: CLTV = $120/yr * 10 yr => 1200$
+
+- CLTV = ARPU / Churn 
+    - Example: 120/yr / 10% => $1200
+
+## Inverted Churn Rate
+
+1. The Inverse of Churn Rate
+- Example: 1M / 10M = 10%
+    - 1 / 10% = 10 years (Average time someone is a customer)
