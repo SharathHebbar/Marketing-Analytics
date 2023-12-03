@@ -1,5 +1,6 @@
 # KPI / SaaS Metrics
 
+## Churn
 1. Churn: The customers who are leaving is referred as Churn
 - Churn Rate: The rate at which customers are churning away
     - ```Churned / Total Customers = Churn Rate```
@@ -37,3 +38,9 @@
 | ------------- | ------------- | ------------- |
 | Revenue Churn Increases | Customer Churn Decreases | Not Good for the company |
 | Revenure Churn Decreases | Customer Churn Increases | Good (Atleast Revenue is good) |
+
+### Points
+1. Churn Rate: Ratio of terminating Customers to existing customers.
+2. Churn is like Leaky Bucket it always leaks(decreases).
+3. Inverted Churn Rate = Average Customer Lifetime Value
+
