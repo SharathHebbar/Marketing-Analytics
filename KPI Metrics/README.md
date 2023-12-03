@@ -274,44 +274,22 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 
 <tr>
 <td>
-1. Proper Segmentation.
 
+1. Proper Segmentation.
 2. Less event Specific.
+3. Unbiased
+4. Meaningful
+5. Long-Term
+6. More Responses
+
 </td>
 <td>Very Detailed and flexible.</td>
-<td>How likely to refer</td>
-</tr>
-<!-- 
-<tr>
-<td>Less event specific.</td>
-<td>Very Detailed and flexible.</td>
-<td>How likely to refer</td>
-</tr>
+<td>
 
-<tr>
-<td>Unbiased.</td>
-<td>Very Detailed and flexible.</td>
-<td>How likely to refer</td>
+1. How likely to refer
+2. Actionable Data
+</td>
 </tr>
-
-<tr>
-<td>Proper Segmentation.</td>
-<td>Very Detailed and flexible.</td>
-<td>How likely to refer</td>
-</tr>
-Less event specific.
-
-<tr>
-<td>Proper Segmentation.</td>
-<td>Very Detailed and flexible.</td>
-<td>How likely to refer</td>
-</tr>
-
-<tr>
-<td>Proper Segmentation.</td>
-<td>Very Detailed and flexible.</td>
-<td>How likely to refer</td>
-</tr> -->
 
 <tr>
 <th>Disadvantages</th>
