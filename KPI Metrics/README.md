@@ -146,4 +146,5 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 4. Strategy: What products and industries should the sales team focus on ?
 
 ### Organization Chart
+
 ![Organization Chart](KPI Metrics\Assets\org_chart.png)
