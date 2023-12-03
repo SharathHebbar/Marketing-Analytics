@@ -136,4 +136,4 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 | CAC | $2000 | $50000 | $5000 | 
 | CLTV:CAC | 5:1 | 1.6 : 1 | 7.5 : 1 |
 
- <h1 style="color:purple;">Hello World</h1>
+ <p style="color:purple;">Hello World</p>
