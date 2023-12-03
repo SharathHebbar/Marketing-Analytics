@@ -32,6 +32,7 @@
 **Note: We need to compare Churn Year-on-Year for seasonal data like games or waterpark activities in summer**
 
 - Some indicators
+
 | Revenue | Customer | Performance |
 | Revenue Churn Increases | Customer Churn Decreases | Not Good for the company |
 | Revenure Churn Decreases | Customer Churn Increases | Good (Atleast Revenue is good) |
