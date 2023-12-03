@@ -147,4 +147,4 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 
 ### Organization Chart
 
-![Organization Chart](KPI Metrics\Assets\org_chart.png)
+![Organization Chart](https://github.com/SharathHebbar/Customer-Analytics/blob/master/KPI%20Metrics/Assets/org_chart.png)
