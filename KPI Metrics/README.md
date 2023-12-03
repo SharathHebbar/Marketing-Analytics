@@ -297,4 +297,35 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 <th>Disadvantages</th>
 </tr>
 
+
+<tr>
+<td>
+
+1. Require follow-ups
+2. Tunnel-vision effect
+
+</td>
+<td>
+
+1. Less likely to respond if unhappy.
+2. Fear of admission.
+3. Short Term.
+4. Happy but not loyal
+
+</td>
+<td>
+
+1. Usually no deal breaker.
+2. Relevance.
+3. No Segmentation.
+
+</td>
+</tr>
+
 </table>
+
+### Factors
+
+1. NPS -> Overall Loyalty -> 5/5
+2. CSAT -> Satisfaction -> 4/5
+3. CES -> Effort Level -> 3/5
