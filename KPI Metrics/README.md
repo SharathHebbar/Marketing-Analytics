@@ -174,7 +174,17 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 
 <tr>
 <td>Regular Basis</td>
+<td>After Customer Interaction</td>
+</tr>
+
+<tr>
 <td>Year on Year Benchmark</td>
+<td>Specific Topic</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Best to use CAT</td>
 </tr>
 
 </table>
