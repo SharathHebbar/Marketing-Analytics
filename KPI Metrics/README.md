@@ -148,3 +148,33 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 ### Organization Chart
 
 ![Organization Chart](https://github.com/SharathHebbar/Customer-Analytics/blob/master/KPI%20Metrics/Assets/org_chart.png)
+
+## Net Promoter Score (NPS)
+
+- How likely would you recommend 
+    - A. Organization
+    - B. Product
+    - C. Service
+
+1. NPS = (No. of Promoters - No. of Detractors) / No. of Total Responses
+    - (60 - 20) / 100 => 40%
+    - (20 - 60) / 100 => -40%
+
+- Good NPS Score
+    - Above 30 High
+    - 0-30 Medium
+    - below 0 Worst
+
+<table>
+
+<tr>
+<th>Relational</th>
+<th>Transactional</th>
+</tr>
+
+<tr>
+<td>Regular Basis</td>
+<td>Year on Year Benchmark</td>
+</tr>
+
+</table>
