@@ -188,3 +188,100 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 </tr>
 
 </table>
+
+### Points
+1. How likely would you recommend service to a friend.
+2. Separate between Detractors, Passives and Promoters.
+3. Detractors result in leaky bucket (```Churn```).
+4. Promoters are free marketers.
+5. 30% + is considered a high NPS.
+6. Survey can be relational or transactional.
+7. For transactional surveys use CSAT.
+
+## CSAT: Customer Satisfaction Score
+
+1. Straightforward and flexible.
+2. Measures customer satisfaction with a 
+    - Business
+    - Purchase
+    - Interaction such as 
+        - Customer onboarding
+        - Training
+        - Event
+3. CAT Score (%) = (Sum of all scores / Sum maximum possible score) * 100
+
+### Points
+
+1. Most straightforward customer KPI.
+2. Measure satisfaction for business purchases or interactions.
+3. Helps to pinpoint problems.
+4. Combine with close-ended and open-ended questions.
+5. Flexible Scale: 0-5, 1-10, unsatisfied-satisfied.
+6. Pulse check overtime.
+7. Dashboard for multiple topics and combine with ```NPS```.
+8. Act upon it.
+
+## Customer Effort Score (CES)
+
+1. How easy it was for a customer to interact with your business.
+- For example:
+    1. After customer support.
+    2. After purchase.
+    3. After interaction with the product.
+
+2. How to calculate CES
+- CES Score(%) = ((Sum of all scores) / (Sum max possible score)) * 100
+    - => (740 / 1000) * 100 => 74%
+
+### How do I Compare ?
+1. No Industry Wide standard.
+2. Companies use different scales.
+3. Regardless the higher the better.
+
+### Points
+1. Effort involved to interact with support, purchase, product.
+2. The company made it easy for me.
+3. Find the root cause with follow up questions ?
+4. Transactional not relational.
+
+## NPS vs CSAT vs CES
+
+1. NPS (Net Promoter Score): How likely is a customer to recommend your product / services.
+2. Customer Satisfaction Score (CSAT): How satisfied is a customer with an interaction / product / service.
+3. Customer Effort Score (CES):  How much effort for a customer to interact with your service / product.
+
+## Comparison
+
+<table>
+
+<tr>
+<th>NPS</th>
+<th>CSAT</th>
+<th>CES</th>
+</tr>
+
+<tr>
+<td>Overall Loyalty</td>
+<td>Satisfcation</td>
+<td>Effort Level</td>
+</tr>
+
+<tr>
+<th>Advantages</th>
+<th>Advantages</th>
+<th>Advantages</th>
+</tr>
+
+<tr>
+<td>Proper Segmentation.</td>
+<td>Very Detailed and flexible.</td>
+<td>How likely to refer</td>
+</tr>
+
+<tr>
+<th>Disadvantages</th>
+<th>Disadvantages</th>
+<th>Disadvantages</th>
+</tr>
+
+</table>
