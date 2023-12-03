@@ -273,7 +273,10 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 </tr>
 
 <tr>
-<td>Proper Segmentation.</td>
+<td>
+1. Proper Segmentation.
+2. Less event specific.
+</td>
 <td>Very Detailed and flexible.</td>
 <td>How likely to refer</td>
 </tr>
