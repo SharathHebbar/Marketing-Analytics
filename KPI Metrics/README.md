@@ -131,9 +131,8 @@ ARR = MRR * 12 (Annual Recurring Revenue)
 | By Product | Product A | Product B | Product C |
 | ---------- | ----------| ----------| --------- |
 | ARPU | $1000 | $4000 | $3000 |
-| Churn | 10.0% | 5.0% | 8.0% |
+| Churn | ```10.0%``` | **5.0%** | **__8.0%__** |
 | CLTV | $10000 | $80000 | $37500 |
 | CAC | $2000 | $50000 | $5000 | 
-| CLTV:CAC | 5:1 | 1.6 : 1 | 7.5 : 1 |
+| CLTV:CAC | *5:1* | ```1.6 : 1``` | **7.5 : 1** |
 
- <p style="color:purple;">Hello World</p>
