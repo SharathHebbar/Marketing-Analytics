@@ -1,4 +1,4 @@
-# Customer-Analytics
+# Marketing-Analytics
 
 Customer Analytics using Python
 
